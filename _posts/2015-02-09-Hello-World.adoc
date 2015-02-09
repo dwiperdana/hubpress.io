@@ -1,0 +1,3 @@
+= Hello World
+
+Ini adalah tempat saya menulis berbagai ide tentang topik-topik menarik untuk skripsi, tugas akhir, atau riset tentang game development, terutama game programming.
