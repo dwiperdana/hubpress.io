@@ -1,0 +1,6 @@
+= Hipster Blog
+:hp-tags: notes
+
+Blog ini dibuat menggunakan `link:http://hubpress.io/index.html[HubPress.io]`, tools untuk membuat static website menggunakan repo `link:https://github.com/[Github]` kita. 
+
+Selain karena mudah dan gratis, kebetulan saya menyimpan daftar awal topik skripsi game dev di Github repo saya: https://github.com/dwiperdana/topik-skripsi-game.
