@@ -1,5 +1,7 @@
 = Ide skripsi dari Game
 
+:hp-tags: Notes, Topik riset
+
 Sebuah video game pada dasarnya adalah sebuah software yang cukup kompleks, karena melibatkan banyak media, misalnya visual dan audio untuk menyampaikan pesan. Berbeda dengan film, game menambahkan unsur interaksi sehingga keputusan pemain dapat mempengaruhi output yang diberikan oleh video game tersebut. +
 
 Kompleksitas ini biasanya tidak terlalu terlihat oleh orang awam, kecuali orang-orang yang sudah penah membuat atau setidaknya 'mencoba' membuat sebuah game sampai selesai. Image bahwa video game adalah 'mainan anak kecil' atau sekedar hiburan semata, membuat video game menjadi topik yang diremehkan di dunia akademis, setidaknya di Indonesia, lebih spesifik lagi di lingkungan saya. +
