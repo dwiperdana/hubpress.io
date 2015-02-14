@@ -1,0 +1,24 @@
+= Ide skripsi dari Game
+
+Sebuah video game pada dasarnya adalah sebuah software yang cukup kompleks, karena melibatkan banyak media, misalnya visual dan audio untuk menyampaikan pesan. Berbeda dengan film, game menambahkan unsur interaksi sehingga keputusan pemain dapat mempengaruhi output yang diberikan oleh video game tersebut. +
+
+Kompleksitas ini biasanya tidak terlalu terlihat oleh orang awam, kecuali orang-orang yang sudah penah membuat atau setidaknya 'mencoba' membuat sebuah game sampai selesai. Image bahwa video game adalah 'mainan anak kecil' atau sekedar hiburan semata, membuat video game menjadi topik yang diremehkan di dunia akademis, setidaknya di Indonesia, lebih spesifik lagi di lingkungan saya. +
+
+Kondisi riset game di Indonesia menjadi semakin sulit berkembang ketika banyak mahasiswa di berbagai universitas membuat topik riset di bidang game yang terlalu sederhana. 
+
+- **Membuat game dengan genre X pada platform Y menggunakan teknologi Z**.
+- **Membuat game X untuk tujuan Y dengan target pengguna Z**.
+- **Penggunaan X untuk Y pada game Z**
+
+Setiap ada mahasiswa yang membuat tugas akhir dengan topik "Pathfinding menggunakan A*" pada suatu game, __I died a little bit inside__.
+
+image::http://i.imgur.com/Cxagv.jpg[sad,200]
+
+Sebenarnya secara akademis, banyak sekali hal yang dapat kita eksplorasi dari sebuah game, yang menarik dan sekaligus memenuhi kriteria akademis (kompleks, canggih, atau baru). Secara teknis sebuah game menggunakan banyak hal dari berbagai ilmu IT atau progamming. Misalnya, database, networking, dan security pada game online. AI pada game apapun yang melibatkan player yang dikontrol oleh sistem. Dan berbagai algoritma untuk mengolah semua objek dalam game di dunia 3D.
+
+Blog ini adalah jawaban saya atas ketidakpuasan saya atas kondisi riset di dunia game di Indonesia saat ini. Saya akan berbagi ide-ide tentang topik-topik riset yang menarik dari dunia game development. Berikut adalah beberapa contoh topik yang akan saya tulis di blog ini:
+
+Implementasi simulasi kerusakan mobil dalam Burnout Paradise:: Untuk membuat efek mobil yang rusak kita bisa: 1) membuat beberapa model mobil dari kondisi prima sampai rusak besar, 2) membuat beberapa template kerusakan yang kita tempatkan di mobil kita, 3) sepenuhnya membuat 'kerusakan' pada mobil menggunakan algoritma dan modifikasi 3D model mobil
+Implementasi seamless world loading pada game open woeld seperi Skyrim:: Pada game klasik seperti Zelda a Link  to the Past, setiap pemain bergerak ke luar layar, akan ada waktu transisi layar untuk memuat asset layar berikutnya. Ini dilakukan karena keterbatasan memori di console jadul seperti Nintendo. Tapi pada game jaman sekarang, game dibuat tidak memiliki loading time saat bergerak di dunia seperti Skyrim. Semua loading asset yang dibutuhkan dilakukan di latar belakang agar tidak mengganggu pengalaman pemain saat bermain game.
+
+Punya ide topik riset lain? Tulis di komentar, saya ingin bisa berdiskusi dengan kamu.
